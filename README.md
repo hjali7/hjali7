@@ -1,4 +1,4 @@
-<h1 align="center">سلام 👋 من علی حاجی زاده هستم!</h1>
+<h1 align="center">Hi there 👋, I'm Ali Hajizadeh!</h1>
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=58A6FF&center=true&vCenter=true&lines=DevOps+Engineer+in+Progress;Docker+%7C+Kubernetes+%7C+CI%2FCD+Lover;Ansible+%7C+Terraform+%7C+Cloud+Native;Python+%7C+Go+%7C+JavaScript+Developer;Always+Learning+%F0%9F%9A%80" alt="Typing SVG" />
@@ -6,7 +6,7 @@
 
 ---
 
-## 🛠️ مهارت‌های فنی من
+## 🛠️ Technical Skills
 
 <p align="center">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
@@ -22,7 +22,7 @@
 
 ---
 
-## 📚 در حال یادگیری
+## 📚 Currently Learning
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
@@ -32,27 +32,27 @@
 
 ---
 
-## 🚀 پروژه‌های DevOps من
+## 🚀 My DevOps Projects
 
-| پروژه | توضیحات |
-|:------|:---------|
-| [**docker-laravel**](https://github.com/hjali7/docker-laravel) | داکرایز کامل یک اپلیکیشن Laravel |
-| [**Docker-Django**](https://github.com/hjali7/Docker-Django) | اجرای Django در محیط Docker |
-| [**k8s-node-app**](https://github.com/hjali7/k8s-node-app) | دیپلوی اپ نودجی‌اس روی Kubernetes |
-| [**ci-cd-github-actions**](https://github.com/hjali7/ci-cd-github-actions) | ساخت CI/CD pipeline با GitHub Actions |
-
----
-
-## 🎯 اهداف من
-
-- 🚀 تبدیل شدن به DevOps Engineer حرفه‌ای
-- 📦 تسلط کامل بر Cloud (AWS, GCP)
-- 🛡️ ساختن Infrastructure as Code با Terraform
-- ⚙️ بهینه سازی Deployment با Kubernetes و CI/CD پیشرفته
+| Project | Description |
+|:--------|:------------|
+| [**Image Processor Lambda**](https://github.com/hjali7/image-processor-lambda) | A serverless image processing application using AWS Lambda functions and S3. |
+| [**Docker Compose Development**](https://github.com/hjali7/docker-compose-development) | A full development environment set up with Docker Compose for multi-container applications. |
+| [**Terraform CI/CD Pipeline**](https://github.com/hjali7/Terraform_CICD_Pipeline) | Automating CI/CD pipelines using Terraform and GitHub Actions. |
+| [**Terraform Local All Concept**](https://github.com/hjali7/terraform-local-all-concept) | A Terraform project demonstrating the usage of `local` values and `all` functions for optimized configurations. |
 
 ---
 
-## 📈 آمار فعالیت گیت‌هاب من
+## 🎯 My Goals
+
+- 🚀 Become a professional DevOps Engineer.
+- ☁️ Master Cloud Platforms (AWS, GCP).
+- 🛠️ Build efficient Infrastructure as Code (IaC) with Terraform and Ansible.
+- 🔄 Automate deployments and workflows with Kubernetes and CI/CD pipelines.
+
+---
+
+## 📈 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hjali7&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" />
@@ -63,12 +63,12 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjali7&layout=compact&theme=github_dark" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjali7&layout=compact&theme=github_dark" alt="Top Languages" />
 </p>
 
 ---
 
-## 📫 راه‌های ارتباطی
+## 📫 How to Reach Me
 
 <p align="center">
   <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -81,5 +81,5 @@
   <img src="https://media.giphy.com/media/xUA7bdpLxQhsSQdyog/giphy.gif" width="300" />
 </div>
 
-> 🌟 باور دارم که یادگیری یک مسیر بی‌پایان و شیرینه. همیشه مشتاقم مهارت‌های جدید کشف کنم و تو پروژه‌های هیجان‌انگیز همکاری کنم!
+> 🚀 I am passionate about continuous learning, innovation, and contributing to amazing open-source projects. Let's build the future together!
 
