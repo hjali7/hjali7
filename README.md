@@ -54,25 +54,40 @@
 
 ## 📈 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hjali7&show_icons=true&theme=github_dark&count_private=true" alt="GitHub Stats" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hjali7&theme=github-dark-blue" alt="GitHub Streak" />
-</p>
+  <!-- GitHub Profile Trophy -->
+  <img src="https://github-profile-trophy.vercel.app/?username=hjali7&theme=algolia&margin-w=15&margin-h=15" alt="GitHub Trophy" />
+  
+  <br><br>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjali7&layout=compact&theme=github_dark" alt="Top Languages" />
-</p>
+  <!-- Main GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=hjali7&show_icons=true&theme=radical&count_private=true&hide_border=true&line_height=30" alt="GitHub Stats" />
+  
+  <br><br>
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=hjali7&theme=highcontrast&hide_border=true&stroke=0000&background=060606" alt="GitHub Streak" />
+  
+  <br><br>
+
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hjali7&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  
+  <br><br>
+
+  <!-- Activity Graph -->
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=hjali7&bg_color=000000&color=00ffff&line=00ffff&point=ffffff&area=true&hide_border=true" alt="GitHub Activity Graph" />
+
+</div>
 
 ---
 
 ## 📫 How to Reach Me
 
 <p align="center">
-  <a href="hajizadehhalii@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/ali-hajizadeh-60915b21a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
@@ -82,4 +97,3 @@
 </div>
 
 > 🚀 I am passionate about continuous learning, innovation, and contributing to amazing open-source projects. Let's build the future together!
-
