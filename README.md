@@ -24,10 +24,10 @@
 
 | پروژه | توضیحات |
 |:------|:---------|
-| [**docker-laravel**](https://github.com/hjali7/docker-laravel) | داکرایز کردن اپلیکیشن Laravel با بهترین شیوه‌ها |
-| [**Docker-Django**](https://github.com/hjali7/Docker-Django) | اجرای Django روی Docker با معماری اصولی |
-| [**k8s-node-app**](https://github.com/hjali7/k8s-node-app) | دیپلوی اپ نود روی Kubernetes با yamlهای حرفه‌ای |
-| [**ci-cd-github-actions**](https://github.com/hjali7/ci-cd-github-actions) | ساخت خط لوله CI/CD با GitHub Actions به صورت کامل |
+| [**terraform-local-all-concept**](https://github.com/hjali7/terraform-local-all-concept) | داکرایز کردن اپلیکیشن Laravel با بهترین شیوه‌ها |
+| [**Terraform_CI/CD_Pipeline**](https://github.com/hjali7/Terraform_CICD_Pipeline) | اجرای Django روی Docker با معماری اصولی |
+| [**image-processor-lambda**](https://github.com/hjali7/image-processor-lambda) | دیپلوی اپ نود روی Kubernetes با yamlهای حرفه‌ای |
+| [**docker-compose-development**](https://github.com/hjali7/docker-compose-development) | ساخت خط لوله CI/CD با GitHub Actions به صورت کامل |
 
 ---
 
